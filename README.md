@@ -320,5 +320,4 @@ CREATE TABLE Products
 - DI ตาม Clean Architecture
 - SOLID: Interface Segregation, Dependency Inversion, Single Responsibility
 - รองรับ Swagger ใน WebAPI
-
-ถ้าต้องการไฟล์หรือส่วนใดเพิ่มเติมแจ้งได้เลย!
+#
