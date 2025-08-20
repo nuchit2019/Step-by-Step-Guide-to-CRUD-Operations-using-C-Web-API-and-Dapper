@@ -321,3 +321,5 @@ CREATE TABLE Products
 - SOLID: Interface Segregation, Dependency Inversion, Single Responsibility
 - รองรับ Swagger ใน WebAPI
 #
+## อ้างอิง 
+- ขอบคุณ CHAT (github copilot)
