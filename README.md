@@ -1,6 +1,5 @@
 # Step-by-Step-Guide-to-CRUD-Operations-using-C-Web-API-and-Dapper
-Step-by-Step Guide to CRUD Operations using C# Web API and Dapper
-แน่นอน! นี่คือตัวอย่างโค้ด CRUD สำหรับ Product โดยใช้ **C# WebAPI**, **Dapper**, **SQL Server (local)**, และแบ่ง Layer ตาม **Clean Architecture** และ **SOLID** พร้อมกับใช้ **Dependency Injection** เท่านั้น
+ตัวอย่างโค้ด CRUD สำหรับ Product โดยใช้ **C# WebAPI**, **Dapper**, **SQL Server (local)**, และแบ่ง Layer ตาม **Clean Architecture** และ **SOLID** Design Principles
 
 ## โครงสร้างโฟลเดอร์
 ```
