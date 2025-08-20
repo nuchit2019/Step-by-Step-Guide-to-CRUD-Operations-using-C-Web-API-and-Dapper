@@ -1,4 +1,4 @@
-# Step-by-Step-Guide-to-CRUD-Operations-using-Web-API-and-Dapper
+# Step by Step Guide to CRUD Operations using Web API and Dapper mini ORM
 ตัวอย่างโค้ด CRUD สำหรับ Product โดยใช้ **C# WebAPI**, **Dapper**, **SQL Server (local)**, และแบ่ง Layer ตาม **Clean Architecture** และ **SOLID** Design Principles
 
 ## โครงสร้างโฟลเดอร์
